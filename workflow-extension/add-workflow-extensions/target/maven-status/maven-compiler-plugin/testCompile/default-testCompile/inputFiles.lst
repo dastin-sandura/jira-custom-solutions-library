@@ -1,0 +1,3 @@
+/Users/dastin.kuwalek/GitHub/jira-custom-solutions-library/workflow-extension/add-workflow-extensions/src/test/java/it/com/example/plugins/tutorial/MyComponentWiredTest.java
+/Users/dastin.kuwalek/GitHub/jira-custom-solutions-library/workflow-extension/add-workflow-extensions/src/test/java/ut/com/example/plugins/tutorial/MyComponentUnitTest.java
+/Users/dastin.kuwalek/GitHub/jira-custom-solutions-library/workflow-extension/add-workflow-extensions/src/test/java/ut/com/example/plugins/tutorial/jira/workflow/ParentIssueBlockingConditionTest.java

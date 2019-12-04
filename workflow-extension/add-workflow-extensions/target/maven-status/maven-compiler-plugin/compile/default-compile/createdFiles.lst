@@ -1,0 +1,4 @@
+com/example/plugins/tutorial/jira/workflow/ParentIssueBlockingConditionFactory.class
+com/example/plugins/tutorial/api/MyPluginComponent.class
+com/example/plugins/tutorial/impl/MyPluginComponentImpl.class
+com/example/plugins/tutorial/jira/workflow/ParentIssueBlockingCondition.class
